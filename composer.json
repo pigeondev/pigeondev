@@ -30,6 +30,7 @@
         "league/flysystem-aws-s3-v3": "^1.0",
         "maatwebsite/excel": "^3.1",
         "maxbanton/cwh": "^2.0",
+        "minishlink/web-push": "^4.0",
         "mpociot/vat-calculator": "^2.4",
         "shiftonelabs/laravel-sqs-fifo-queue": "^2.0",
         "shivella/laravel-bitly": "^1.0",
