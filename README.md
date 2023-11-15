@@ -1,2 +1,2 @@
 # pigeondev
-Developer @ [[MotionOps]](https://motionops.com/)
+Developer [@ [MotionOps]](https://motionops.com/)
